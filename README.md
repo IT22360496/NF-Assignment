@@ -1,4 +1,4 @@
-# NF Group Assignment
+# Network Fundamentals Group Assignment
 This repository contains the instructions and submission for my Y1S2 Network Fundamentals group assignment.
 
 ## Summarised Description of the Assignment
